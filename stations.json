@@ -1,5 +1,5 @@
 {
-  "MW": {
+
     "stations": [
       {
         "name": "Kool",
@@ -147,43 +147,6 @@
         "volume": "100"
       }
     ]
-  },
-  "LW": {
-    "stations": [
-      {
-        "name": "New",
-        "url": "-",
-        "volume": "100"
-      },
-      {
-        "name": "New",
-        "url": "CreateNewDoc()",
-        "volume": "100"
-      },
-      {
-        "name": "New",
-        "url": "CreateNewDoc()",
-        "volume": "100"
-      }
-    ]
-  },
-  "SW": {
-    "stations": [
-      {
-        "name": "New",
-        "url": "CreateNewDoc()",
-        "volume": "100"
-      },
-      {
-        "name": "New",
-        "url": "CreateNewDoc()",
-        "volume": "100"
-      },
-      {
-        "name": "New",
-        "url": "CreateNewDoc()",
-        "volume": "100"
-      }
-    ]
-  }
+
+
 }
