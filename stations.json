@@ -1,0 +1,189 @@
+{
+  "MW": {
+    "stations": [
+      {
+        "name": "Kool",
+        "url": "http://uk1-pn.webcast-server.net:8698",
+        "volume": "100"
+      },
+      {
+        "name": "Absolute",
+        "url": "http://icy-e-bab-04-cr.sharp-stream.com:80/absoluteradio.mp3",
+        "volume": "100"
+      },
+      {
+        "name": "Actual Radio",
+        "url": "http://uk3.internet-radio.com:8198/stream",
+        "volume": "100"
+      },
+      {
+        "name": "BBC 1",
+        "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p?s=1503477210&e=1503491610&h=062427cd57c20fd8f711b9daa7de5b51",
+        "volume": "100"
+      },
+      {
+        "name": "BBC 2",
+        "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p?s=1503477300&e=1503491700&h=b796bf7625c76036f7663ef91c917831",
+        "volume": "100"
+      },
+      {
+        "name": "BBC 3",
+        "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p?s=1503477126&e=1503491526&h=50ce9645c2c0413ed0f72cd018816e56",
+        "volume": "100"
+      },
+      {
+        "name": "BBC 4",
+        "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p?s=1503477303&e=1503491703&h=1869df71c117dcd1c34795bce822b974",
+        "volume": "100"
+      },
+      {
+        "name": "BBC World",
+        "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk",
+        "volume": "100"
+      },
+      {
+        "name": "Gurkha Radio",
+        "url": "http://edge-audio-03-gos2.sharp-stream.com:80/ssvcbfbs3.mp3",
+        "volume": "100"
+      },
+      {
+        "name": "Chill",
+        "url": "http://media-the.musicradio.com:80/ChillMP3",
+        "volume": "100"
+      },
+      {
+        "name": "FIP",
+        "url": "http://direct.fipradio.fr/live/fip-midfi.mp3",
+        "volume": "100"
+      },
+      {
+        "name": "FIP ROCK",
+        "url": "http://direct.fipradio.fr/live/fip-webradio1.mp3",
+        "volume": "100"
+      },
+      {
+        "name": "FIP JAZZ",
+        "url": "http://direct.fipradio.fr/live/fip-webradio2.mp3",
+        "volume": "100"
+      },
+      {
+        "name": "FIP GROOVE",
+        "url": "http://direct.fipradio.fr/live/fip-webradio3.mp3",
+        "volume": "100"
+      },
+      {
+        "name": "FIP MONDE",
+        "url": "http://direct.fipradio.fr/live/fip-webradio4.mp3",
+        "volume": "100"
+      },
+      {
+        "name": "FIP REGGAE",
+        "url": "http://direct.fipradio.fr/live/fip-webradio6.mp3",
+        "volume": "100"
+      },
+      {
+        "name": "Classic FM",
+        "url": "http://media-the.musicradio.com:80/ClassicFMMP3",
+        "volume": "100"
+      },
+      {
+        "name": "Colourful",
+        "url": "http://streaming.colourfulradio.com:8000/colourful",
+        "volume": "100"
+      },
+      {
+        "name": "-",
+        "url": "-",
+        "volume": "100"
+      },
+      {
+        "name": "-",
+        "url": "-",
+        "volume": "100"
+      },
+      {
+        "name": "-",
+        "url": "-",
+        "volume": "100"
+      },
+      {
+        "name": "-",
+        "url": "-",
+        "volume": "100"
+      },
+      {
+        "name": "-",
+        "url": "-",
+        "volume": "100"
+      },
+      {
+        "name": "-",
+        "url": "-",
+        "volume": "100"
+      },
+      {
+        "name": "-",
+        "url": "-",
+        "volume": "100"
+      },
+      {
+        "name": "-",
+        "url": "-",
+        "volume": "100"
+      },
+      {
+        "name": "-",
+        "url": "-",
+        "volume": "100"
+      },
+      {
+        "name": "-",
+        "url": "-",
+        "volume": "100"
+      },
+      {
+        "name": "-",
+        "url": "-",
+        "volume": "100"
+      }
+    ]
+  },
+  "LW": {
+    "stations": [
+      {
+        "name": "New",
+        "url": "-",
+        "volume": "100"
+      },
+      {
+        "name": "New",
+        "url": "CreateNewDoc()",
+        "volume": "100"
+      },
+      {
+        "name": "New",
+        "url": "CreateNewDoc()",
+        "volume": "100"
+      }
+    ]
+  },
+  "SW": {
+    "stations": [
+      {
+        "name": "New",
+        "url": "CreateNewDoc()",
+        "volume": "100"
+      },
+      {
+        "name": "New",
+        "url": "CreateNewDoc()",
+        "volume": "100"
+      },
+      {
+        "name": "New",
+        "url": "CreateNewDoc()",
+        "volume": "100"
+      }
+    ]
+  }
+}
