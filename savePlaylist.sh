@@ -20,7 +20,7 @@ makePlaylist(){
 
 
 
-
+##push it
 	git status
 
 	read -p "Push to repo? (y/n) " RESP
