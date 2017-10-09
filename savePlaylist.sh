@@ -14,6 +14,13 @@ makePlaylist(){
 		youtube-dl --extract-audio --audio-format mp3 $1
 	fi
 
+
+	## now m3u
+	playlist='play.m3u' ; if [ -f $playlist ]; then rm $playlist ; fi ; for f in *.mp3; do echo "https://jonnyand.github.io/radioAssets/$2/$f" >> "$playlist"; done
+
+
+
+
 	git status
 
 	read -p "Push to repo? (y/n) " RESP
